@@ -1,1 +1,1 @@
-# Log-Configuration-Windows-Powershell-Sysmon-...-
+# Log-Configuration
